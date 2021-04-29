@@ -1,0 +1,20 @@
+{
+  "name": "fast-specs",
+  "productName": "Fast Specs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "electron": "^12.0.2",
+    "electron-packager": "^15.2.0",
+    "electron-reload": "^1.5.0",
+    "systeminformation": "^5.6.10"
+  }
+}
