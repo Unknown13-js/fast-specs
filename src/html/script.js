@@ -41,4 +41,4 @@ ipcRenderer.on('systemSlowLoadDataGet', (event, systemSlowLoadData) => {
 	}, 250);
 
 
-})
+});
